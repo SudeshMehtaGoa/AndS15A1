@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndS15A1</string>
+    <string name="action_settings">Settings</string>
+    <string name="icon">icon</string>
+
+    <string name="action_add">Add</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_search">Search</string>
+</resources>
